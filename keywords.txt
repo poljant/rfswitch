@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For RCSwitch
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RFSwitch	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setCodOn	KEYWORD2
+setCodOff	KEYWORD2
+setRF		KEYWORD2
+readCod		KEYWORD2
+begin		KEYWORD2
+sendOn		KEYWORD2
+sendOff		KEYWORD2	
+readRF		KEYWORD2
+writeRF		KEYWORD2
+getCodOn	KEYWORD2
+getCodOff	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
